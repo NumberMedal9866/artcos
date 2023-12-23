@@ -83,6 +83,9 @@
     position: relative;
     margin-top: 170px;
     margin-bottom: 375px;
+    @include media (780){
+        margin-bottom: 100px;
+    }
     .container{
         position: relative;
     }

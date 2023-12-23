@@ -101,11 +101,11 @@ h1{
             background: var(--dark-main-bg, #0D0D0D);
             width: 400px;
             @include media (450){
-                width: 300px;
+                width: 100%;
             }
-            @include media (350){
-                width: 200px;
-            }
+            // @include media (350){
+            //     width: 200px;
+            // }
         }
         a{
             @include media(920){
