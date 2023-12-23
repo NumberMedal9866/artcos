@@ -4,7 +4,7 @@
             <div class="footer-holder">
                 <div class="footer-logo">
                     <img src="@/assets/images/logoThree.png" alt="">
-                    <span>© 2023 Artcos Co., LTD. All Rights Reserved.</span>
+                    <span>© 2022 Artcos Co., LTD. All Rights Reserved.</span>
                 </div>
                 <div class="footer-ul">
                     <ul>

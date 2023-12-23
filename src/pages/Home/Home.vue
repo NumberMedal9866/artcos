@@ -38,7 +38,7 @@
                     <div class="card-info">
                         <!-- <img src="@/assets/images/Subbi.svg" alt=""> -->
                         <h3>What we do</h3>
-                        <p>Forest Group Company LTD operates in the markets of digital, industrial, and construction products. Despite its relatively short existence, the company holds a significant position in the market, contributing to the rapid development of the country's economy. The main focus lies in supplying equipment, materials, spare parts, and special equipment to businesses of varying sizes. Our operations extend to countries like China, South Korea, Taiwan, Thailand, UAE, CIS, USA, and EU member states. Notably, we maintain no direct or indirect associations with countries included in the sanctions list (OFAC).</p>
+                        <p>Artcos Co., LTD. operates in the markets of digital, industrial, and construction products. Despite its relatively short existence, the company holds a significant position in the market, contributing to the rapid development of the country's economy. The main focus lies in supplying equipment, materials, spare parts, and special equipment to businesses of varying sizes. Our operations extend to countries like China, South Korea, Taiwan, Thailand, UAE, CIS, USA, and EU member states. Notably, we maintain no direct or indirect associations with countries included in the sanctions list (OFAC).</p>
                         <!-- <a href="https://vuecinephile.vercel.app/#/" target="_blank">Visit site</a> -->
                         <router-link to="/services">Our services ➔</router-link>
                     </div>

@@ -25,7 +25,7 @@
                     <img src="@/assets/images/handshake.svg" alt="">
                     <div class="tech-main-section-catalog-card-info">
                         <p>Trade</p>
-                        <span>trade of computer and network equipment</span>
+                        <span>Trade of computer and network equipment</span>
                     </div>
                 </div>
                 <div class="tech-main-section-catalog-card">
