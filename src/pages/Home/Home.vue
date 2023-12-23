@@ -11,7 +11,7 @@
             <div class="title-ad">
                 <div class="title-ad-f title-ad-s">
                     <span>Artcos</span>
-                    <img src="@/assets/images/hand.png" alt="">
+                    <img src="@/assets/images/handshake.png" alt="">
                 </div>
                 <div class="title-ad-s">
                     <span>Co.,</span>
