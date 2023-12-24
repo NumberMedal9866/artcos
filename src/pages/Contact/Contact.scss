@@ -107,3 +107,15 @@ input::-webkit-inner-spin-button {
 iframe{
     margin-top: 20px;
 }
+.nd{
+    display: none;
+    @include media (780){
+        display: block;
+        margin-bottom: 20px;
+    }
+}
+.fir{
+    @include media (780){
+        display: none;
+    }
+}

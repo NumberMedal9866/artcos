@@ -84,6 +84,7 @@
     margin-top: 170px;
     margin-bottom: 375px;
     @include media (780){
+        margin-top: 100px;
         margin-bottom: 100px;
     }
     .container{
@@ -179,6 +180,9 @@
         flex-direction: column;
         gap: 32px;
         margin-bottom: 100px;
+        @include media (780){
+            margin-bottom: 20px;
+        }
     }
     &-info{
         display: flex;
@@ -321,8 +325,10 @@
         display: flex;
         gap: 120px;
         @include media(780){
-            flex-direction: column;
-            gap: 40px;
+            // flex-direction: column;
+            // gap: 40px;
+            justify-content: start;
+            gap: 50px;
             margin-bottom: 80px;
         }
         ul{

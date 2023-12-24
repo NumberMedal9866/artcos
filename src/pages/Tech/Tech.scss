@@ -13,11 +13,20 @@
             }
         }
         margin-bottom: 80px;
+        @include media (780){
+            margin-bottom: 20px;
+        }
     }
     &-main{
         margin-top: 100px;
+        @include media (780){
+            margin-top: 20px;
+        }
         &-section{
             margin-bottom: 80px;
+            @include media (780){
+                margin-bottom: 30px;
+            }
             h2{
                 font-family: I7;
                 font-weight: 700;
