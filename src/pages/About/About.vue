@@ -18,7 +18,7 @@
                     <h2>WHO ARE WE</h2>
                     <p><span class="main-text-highlight">Artcos Co., LTD.</span> operates in the markets of digital, industrial and construction products. The main activity is the <span class="main-text-highlight">supply</span> of digital, industrial and construction equipment and materials, spare parts and special equipment for large, medium and small businesses. Despite the relatively short period of its existence, the company occupies a certain position in the market and contributes to the rapidly developing economy of the country.</p>
                 </div>
-                <div class="main-img">
+                <div class="main-img temp">
                     <img src="@/assets/images/server.webp" alt="">
                 </div>
                 <div class="main-text">
@@ -27,7 +27,7 @@
                     The company is not directly or indirectly associated with the countries included in the sanctions list (OFAC).
                     Production and sale of digital and home appliances is a promising area of activity. Companies that are engaged in such business, note a very high level of competition in their field.</p>
                 </div>
-                <div class="main-img">
+                <div class="main-img temp">
                     <img src="@/assets/images/const.png" alt="">
                 </div>
                 <div class="main-text">

@@ -7,7 +7,7 @@
                 <li><router-link to="/about">About</router-link></li>
                 <!-- <li><router-link to="/projects">Work</router-link></li> -->
                 <li><router-link to="/tech">Services</router-link></li>
-                <li><router-link to="/Contact">Contact/Info</router-link></li>
+                <!-- <li><router-link to="/Contact">Contact/Info</router-link></li> -->
             </ul>
             <div class="nav-item">
                 <div class="nav-item-links">

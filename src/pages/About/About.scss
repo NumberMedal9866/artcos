@@ -130,3 +130,9 @@ h1{
         }
     }
 }
+.temp{
+    display: none;
+    @include media (780){
+        display: block;
+    }
+}

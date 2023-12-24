@@ -11,7 +11,7 @@
     </div>
     <div class="header-line"></div>
     <div class="container">
-        <!-- <div class="message">
+        <div class="message">
             <div class="message-nav">
                 <img src="@/assets/images/mac.svg" alt="">
                 <p>Our contact information</p>
@@ -34,7 +34,7 @@
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1937.8869259157639!2d100.56511820732361!3d13.7321468298223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29f028e9e1de7%3A0xb100bede8f20a1ad!2s25%20Sukhumvit%20Rd%2C%20Khwaeng%20Khlong%20Tan%2C%20Khet%20Khlong%20Toei%2C%20Krung%20Thep%20Maha%20Nakhon%2010110%2C%20Thailand!5e0!3m2!1sen!2s!4v1703347367752!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </form>
             </div>
-        </div> -->
+        </div>
     </div>
 </template>
 
