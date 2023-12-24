@@ -48,7 +48,10 @@
                     <div class="card-info">
                         <!-- <img src="@/assets/images/Subbi.svg" alt=""> -->
                         <h3>Thriving in Digital Appliance Innovation</h3>
-                        <p class="alter">The production and sale of digital and home appliances stand as promising sectors in our activities. This domain is highly competitive, encompassing personal computers, smartphones, tablets, laptops, and other high-tech equipment integral to modern life. Beyond product supply, our company offers comprehensive transportation services for goods worldwide via any mode of transport. While we cover a broad spectrum of transport services, our primary focus remains on delivering cargo according to the most convenient and cost-effective scheme for the cargo owner. Additionally, we specialize in sourcing necessary products or partners, installation, supervision, and technical support for supplied products. As a young but rapidly evolving company, we've forged partnerships with major manufacturers. Our core ethos centers on being customer-oriented, constantly striving for improvement in this direction. Our team's reality reflects a multitude of successfully completed orders, a robust base of loyal customers, collaborations with industry leaders, and an unwavering commitment to service quality.</p>
+                        <p class="alter uno">The production and sale of digital and home appliances stand as promising sectors in our activities. This domain is highly competitive, encompassing personal computers, smartphones, tablets, laptops, and other high-tech equipment integral to modern life. Beyond product supply, our company offers comprehensive transportation services for goods worldwide via any mode of transport. While we cover a broad spectrum of transport services, our primary focus remains on delivering cargo according to the most convenient and cost-effective scheme for the cargo owner. Additionally, we specialize in sourcing necessary products or partners, installation, supervision, and technical support for supplied products. As a young but rapidly evolving company, we've forged partnerships with major manufacturers. Our core ethos centers on being customer-oriented, constantly striving for improvement in this direction. Our team's reality reflects a multitude of successfully completed orders, a robust base of loyal customers, collaborations with industry leaders, and an unwavering commitment to service quality.</p>
+                        <p class="alter dos">
+                        We excel in digital and home appliances, offering competitive products like computers, smartphones, tablets, and more. Our focus is on global transportation services, ensuring efficient and cost-effective delivery. Additionally, we specialize in product sourcing, installation, and technical support. With strong partnerships and a customer-first approach, we've built a track record of successful orders and loyal customers.
+                        </p>
                         <router-link to="/services">Our services ➔</router-link>
                     </div>
                     <!-- <img src="@/assets/images/pearlogo.png" alt="" class="card-info-img project"> -->
@@ -58,60 +61,36 @@
         </div>
     </section>
     <section class="container">
-                <div class="message">
-            <div class="message-nav">
-                <img src="@/assets/images/mac.svg" alt="">
-                <p>Our contact information</p>
-            </div>
-            <div class="message-main">
-                <form @submit.prevent="handleSubmit" ref="form">
-                    <div class="message-main-input">
-                        <span>Email:</span>
-                        <span>artcosgroup@gmail.com</span>
-                    </div>
-                    <div class="message-main-input">
-                        <span>Number:</span>
-                        <span>+66 820 780 002</span>
-                    </div>
-                    <div class="message-main-input">
-                        <span>Tax Id Number:</span>
-                        <span>0105565005522</span>
-                    </div>
-                    <span class="message-main-address">Address:</span>
-                    <iframe class="fir" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1937.8869259157639!2d100.56511820732361!3d13.7321468298223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29f028e9e1de7%3A0xb100bede8f20a1ad!2s25%20Sukhumvit%20Rd%2C%20Khwaeng%20Khlong%20Tan%2C%20Khet%20Khlong%20Toei%2C%20Krung%20Thep%20Maha%20Nakhon%2010110%2C%20Thailand!5e0!3m2!1sen!2s!4v1703347367752!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    <iframe class="nd" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1937.8869259157639!2d100.56511820732361!3d13.7321468298223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29f028e9e1de7%3A0xb100bede8f20a1ad!2s25%20Sukhumvit%20Rd%2C%20Khwaeng%20Khlong%20Tan%2C%20Khet%20Khlong%20Toei%2C%20Krung%20Thep%20Maha%20Nakhon%2010110%2C%20Thailand!5e0!3m2!1sen!2s!4v1703347367752!5m2!1sen!2s" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </form>
+        <div class="container">
+            <h2 class="work gap">Our contact information</h2>
+            <div class="message">
+                <div class="message-nav">
+                    <img src="@/assets/images/mac.svg" alt="">
+                    <p>Our contact information</p>
+                </div>
+                <div class="message-main">
+                    <form @submit.prevent="handleSubmit" ref="form">
+                        <div class="message-main-input">
+                            <span>Email:</span>
+                            <span>artcosgroup@gmail.com</span>
+                        </div>
+                        <div class="message-main-input">
+                            <span>Number:</span>
+                            <span>+66 820 780 002</span>
+                        </div>
+                        <div class="message-main-input">
+                            <span>Tax Id Number:</span>
+                            <span>0105565005522</span>
+                        </div>
+                        <span class="message-main-address">Address:</span>
+                        <iframe class="fir" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1937.8869259157639!2d100.56511820732361!3d13.7321468298223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29f028e9e1de7%3A0xb100bede8f20a1ad!2s25%20Sukhumvit%20Rd%2C%20Khwaeng%20Khlong%20Tan%2C%20Khet%20Khlong%20Toei%2C%20Krung%20Thep%20Maha%20Nakhon%2010110%2C%20Thailand!5e0!3m2!1sen!2s!4v1703347367752!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe class="nd" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1937.8869259157639!2d100.56511820732361!3d13.7321468298223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29f028e9e1de7%3A0xb100bede8f20a1ad!2s25%20Sukhumvit%20Rd%2C%20Khwaeng%20Khlong%20Tan%2C%20Khet%20Khlong%20Toei%2C%20Krung%20Thep%20Maha%20Nakhon%2010110%2C%20Thailand!5e0!3m2!1sen!2s!4v1703347367752!5m2!1sen!2s" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </form>
+                </div>
             </div>
         </div>
     </section>
-    <!-- <section class="about container">
-        <div class="container">
-            <h2 class="card-catalog-title">Get to know me</h2>
-            <div class="card-catalog">
-                <router-link to="/about" class="infocard">
-                    <h3>About me</h3>
-                    <span>Who I am and what I do</span>
-                    <img src="@/assets/images/avaa.png" alt="" class="infocard-img">
-                </router-link>
-                <router-link to="/tech" class="infocard">
-                    <h3>Tech Stack</h3>
-                    <p>The dev tools, apps, devices, and games I use and play.</p>
-                    <img src="@/assets/images/tech-stack.svg" alt="" class="infocard-tech">
-                </router-link>
-                <router-link to="/contact" class="infocard">
-                    <h3>Contact me</h3>
-                    <span>My contacts and social</span>
-                    <img src="@/assets/images/phone.svg" alt="" class="infocard-img2">
-                </router-link>
-                <router-link to="/about" class="infocard">
-                    <h3>My list of projects</h3>
-                    <p>All of my finished projects</p>
-                    <img src="@/assets/images/proj.svg" alt="" class="infocard-proj">
-                </router-link>
-            </div>
-        </div>
-    </section> -->
-
+    <div class="header-line"></div>
 </template>
 
 <script setup>

@@ -14,10 +14,13 @@
     }
 }
 .message{
+    @include media (780){
+        margin-bottom: 30px;
+    }
     margin-top: 60px;
     border-radius: 12px;
-    border: 1px solid var(--dark-card-border, #383737);
-    background: var(--basic-onyx, #181818);
+    border: 1px solid #383737;
+    background: var(--basic-onyx, rgba(24, 24, 24, .5803921569));
     box-shadow: 0px 19px 30px 0px rgba(0, 0, 0, 0.20);
     &-nav{
         padding: 16px;
@@ -117,5 +120,11 @@ iframe{
 .fir{
     @include media (780){
         display: none;
+    }
+}
+.gap{
+    margin-top: 200px;
+    @include media (780){
+        margin-top: 100px;
     }
 }

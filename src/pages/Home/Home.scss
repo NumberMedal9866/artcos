@@ -72,7 +72,7 @@
     }
     img{
         display: none;
-        width: 70px;
+        width: 100px;
         @include media(780){
             display: flex;
         }
@@ -299,6 +299,8 @@
         display: flex;justify-content: space-between;
         @include media(780){
             flex-direction: column-reverse;
+            margin: 15px;
+            margin-top: 60px;
         }
     }
     &-logo{
@@ -378,4 +380,16 @@
 }
 h3{
     color: white !important;
+}
+.uno{
+    display: block;
+    @include media (780){
+        display: none;
+    }
+}
+.dos{
+    display: none;
+    @include media (780){
+        display: block;
+    }
 }
