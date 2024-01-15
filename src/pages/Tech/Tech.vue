@@ -50,6 +50,13 @@
                     </div>
                 </div>
                 <div class="tech-main-section-catalog-card">
+                    <img src="@/assets/images/machinery.svg" class="no" alt="">
+                    <div class="tech-main-section-catalog-card-info">
+                        <p>Machinery</p>
+                        <span>Electrical and Industrial equipment</span>
+                    </div>
+                </div>
+                <div class="tech-main-section-catalog-card">
                     <img src="@/assets/images/other.svg" class="no" alt="">
                     <div class="tech-main-section-catalog-card-info">
                         <p>Other</p>
