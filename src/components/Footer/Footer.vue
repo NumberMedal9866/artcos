@@ -16,7 +16,7 @@
                     </ul>
                     <ul>
                         <li class="first">Elsewhere</li>
-                        <li><a href="mailto:artcosgroup@gmail.com">Email</a></li>
+                        <li><a href="mailto:info@artcosgrp.com">Email</a></li>
                         <li><a href="tel:+66820780002">Phone</a></li>
                         <li @click="sfds()"><p href="#">Tax Id</p></li>
                     </ul>

@@ -11,7 +11,7 @@
             </ul>
             <div class="nav-item">
                 <div class="nav-item-links">
-                    <a href="mailto:artcosgroup@gmail.com"><img src="@/assets/images/email.svg" alt=""></a>
+                    <a href="mailto:info@artcosgrp.com"><img src="@/assets/images/email.svg" alt=""></a>
                     <a href="tel:+66820780002"><img src="@/assets/images/phone.svg" alt=""></a>
                     <!-- <a href="https://twitter.com/alexander_webdv" target="_blank"><img src="@/assets/images/twitter.svg" alt=""></a>                    -->
                 </div>

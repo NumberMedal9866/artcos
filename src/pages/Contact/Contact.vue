@@ -20,7 +20,7 @@
                 <form @submit.prevent="handleSubmit" ref="form">
                     <div class="message-main-input">
                         <span>Email:</span>
-                        <span>artcosgroup@gmail.com</span>
+                        <span>info@artcosgrp.com</span>
                     </div>
                     <div class="message-main-input">
                         <span>Number:</span>
