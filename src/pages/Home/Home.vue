@@ -38,7 +38,7 @@
                     <div class="card-info">
                         <!-- <img src="@/assets/images/Subbi.svg" alt=""> -->
                         <h3>What we do</h3>
-                        <p>Artcos Co., LTD. operates in the markets of digital, industrial, and construction products. Despite its relatively short existence, the company holds a significant position in the market, contributing to the rapid development of the country's economy. The main focus lies in supplying equipment, materials, spare parts, and special equipment to businesses of varying sizes. Our operations extend to countries like China, South Korea, Taiwan, Thailand, UAE, CIS, USA, and EU member states. Notably, we maintain no direct or indirect associations with countries included in the sanctions list (OFAC).</p>
+                        <p>AVL Networks Co., LTD operates in the markets of digital, industrial and construction products. The main activity is the supply of mining equipment (lifting and enrichment equipment, vertical sinking and near-shaft yard, mixing and charging machines of the HANFO-REPUMP series, spare parts), digital, industrial and construction equipment and materials, spare parts and special equipment for large, medium and small businesses. Despite the relatively short period of its existence, the company occupies a certain position in the market and contributes to the rapidly developing economy of the country. </p>
                         <!-- <a href="https://vuecinephile.vercel.app/#/" target="_blank">Visit site</a> -->
                         <router-link to="/services">Our services ➔</router-link>
                     </div>
@@ -47,10 +47,46 @@
                 <div class="card hidden">
                     <div class="card-info">
                         <!-- <img src="@/assets/images/Subbi.svg" alt=""> -->
-                        <h3>Thriving in Digital Appliance Innovation</h3>
-                        <p class="alter uno">The production and sale of digital and home appliances stand as promising sectors in our activities. This domain is highly competitive, encompassing personal computers, smartphones, tablets, laptops, and other high-tech equipment integral to modern life. Beyond product supply, our company offers comprehensive transportation services for goods worldwide via any mode of transport. While we cover a broad spectrum of transport services, our primary focus remains on delivering cargo according to the most convenient and cost-effective scheme for the cargo owner. Additionally, we specialize in sourcing necessary products or partners, installation, supervision, and technical support for supplied products. As a young but rapidly evolving company, we've forged partnerships with major manufacturers. Our core ethos centers on being customer-oriented, constantly striving for improvement in this direction. Our team's reality reflects a multitude of successfully completed orders, a robust base of loyal customers, collaborations with industry leaders, and an unwavering commitment to service quality.</p>
+                        <h3>Countries we work with</h3>
+                        <p>Our company works with countries such as: China, South Korea, Taiwan, Thailand, UAE, CIS, USA and EU member states. 
+                        The company is not directly or indirectly associated with the countries included in the sanctions list (OFAC).                                                           
+                        </p>
+                        <!-- <a href="https://vuecinephile.vercel.app/#/" target="_blank">Visit site</a> -->
+                        <router-link to="/services">Our services ➔</router-link>
+                    </div>
+                    <img src="@/assets/images/world.svg" alt="" class="card-info-img proj">
+                </div>
+                <div class="card hidden">
+                    <div class="card-info">
+                        <!-- <img src="@/assets/images/Subbi.svg" alt=""> -->
+                        <h3>Provided services</h3>
+                        <p class="alter uno">
+                            Production and sale of digital and home appliances is a promising area of activity. Companies that are engaged in such business, note a very high level of competition in their field. 
+                            Personal computers, smartphones, tablet computers, laptops and other high-tech equipment are quite common, without which it is difficult to imagine the life of a modern person.<br><br>
+
+                            Our company provides a full range of services for the transportation of any goods from anywhere in the world by any type of transport. With all the quantitative breadth of transport services provided, the main function of the company's activities remains unchanged – cargo delivery according to the most convenient and economical scheme for the cargo owner. <br><br>
+
+                            Our company also provides services for finding the necessary products or partners, installation, installation supervision and technical support of the supplied products.     <br><br>
+
+                            We are a young, but rapidly developing company that has partnered with major manufacturers.<br><br>  
+
+                            “Our company is, first of all, customer-oriented and we do everything possible to improve, first of all, in this direction.<br><br>ё 
+
+                            “The reality of our team is a huge number of successfully completed orders, a wide base of regular customers, cooperation with leading companies and impeccable quality of services.                                                      
+                        </p>
                         <p class="alter dos">
-                        We excel in digital and home appliances, offering competitive products like computers, smartphones, tablets, and more. Our focus is on global transportation services, ensuring efficient and cost-effective delivery. Additionally, we specialize in product sourcing, installation, and technical support. With strong partnerships and a customer-first approach, we've built a track record of successful orders and loyal customers.
+                            Production and sale of digital and home appliances is a promising area of activity. Companies that are engaged in such business, note a very high level of competition in their field. 
+                            Personal computers, smartphones, tablet computers, laptops and other high-tech equipment are quite common, without which it is difficult to imagine the life of a modern person.  
+
+                            Our company provides a full range of services for the transportation of any goods from anywhere in the world by any type of transport. With all the quantitative breadth of transport services provided, the main function of the company's activities remains unchanged – cargo delivery according to the most convenient and economical scheme for the cargo owner. 
+
+                            Our company also provides services for finding the necessary products or partners, installation, installation supervision and technical support of the supplied products.     
+
+                            We are a young, but rapidly developing company that has partnered with major manufacturers.  
+
+                            “Our company is, first of all, customer-oriented and we do everything possible to improve, first of all, in this direction. 
+
+                            “The reality of our team is a huge number of successfully completed orders, a wide base of regular customers, cooperation with leading companies and impeccable quality of services.                                                                           
                         </p>
                         <router-link to="/services">Our services ➔</router-link>
                     </div>
@@ -156,6 +192,16 @@ onBeforeUnmount(() => {
     border-radius: 32px;
     border: 1px solid #383737;
  }
+//  .proj-two{
+//     position: inherit;
+//     width: 315px;
+//     margin-left: 100px;
+//     padding: 20px;
+//     padding: 10px 0;
+//     border-radius: 32px;
+//     border: 1px solid #383737;
+//     // height: 50px;
+//  }
  .project{
     position: inherit;
     width: 280px;
