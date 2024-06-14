@@ -90,9 +90,10 @@ h1{
     }
     &-img{
         display: flex;
-        flex-direction: column;
+        // flex-direction: column;
         align-items: center;
         gap: 100px;
+        margin-bottom: 40px;
         @include media (920){
             align-items: start;
             margin-bottom: 65px;
@@ -131,8 +132,12 @@ h1{
     }
 }
 .temp{
-    display: none;
+    // display: none;
     @include media (780){
-        display: block;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
     }
 }
